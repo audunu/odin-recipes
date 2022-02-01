@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    padding: 0.5em 0.5em;
+    background-color: grey;
+    display: inline-block;
+    margin: 0.5em 0 0.5em 0;
+    border: 2px solid black;
+    border-radius: 0.2em;
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+ 
+img {
+    width: 35%;
+    border-radius: 1em;
+} 
